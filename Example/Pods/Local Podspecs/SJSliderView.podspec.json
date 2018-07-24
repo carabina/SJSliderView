@@ -1,9 +1,10 @@
 {
   "name": "SJSliderView",
   "version": "0.1.0",
-  "summary": "A short description of SJSliderView.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "Slider Control for selecting current index on scale.",
+  "description": "The SJSliderView control is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare.",
   "homepage": "https://github.com/sumitjagdev/SJSliderView",
+  "screenshots": "https://raw.githubusercontent.com/sumitjagdev/SJSliderView/master/Screen1.png",
   "license": {
     "type": "MIT",
     "file": "LICENSE"

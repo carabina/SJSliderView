@@ -22,7 +22,7 @@ The SJSliderView control is a completely customizable widget that can be used in
                        DESC
 
   s.homepage         = 'https://github.com/sumitjagdev/SJSliderView'
-  s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.screenshots     = 'https://raw.githubusercontent.com/sumitjagdev/SJSliderView/master/Screen1.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sumitjagdev' => 'sumitjagdev3@gmail.com' }
   s.source           = { :git => 'https://github.com/sumitjagdev/SJSliderView.git', :tag => s.version.to_s }
